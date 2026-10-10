@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/haile199105">
-    <img src="https://komarev.com/ghpvc/?username=haile199105&label=Profile%20Views&color=2563EB&style=flat" alt="Profile views" />
+  <a href="https://github.com/haileshibru">
+    <img src="https://komarev.com/ghpvc/?username=haileshibru&label=Profile%20Views&color=2563EB&style=flat" alt="Profile views" />
   </a>
-  <a href="https://github.com/haile199105?tab=followers">
-    <img src="https://img.shields.io/github/followers/haile199105?label=Followers&style=flat&color=0F172A" alt="GitHub followers" />
+  <a href="https://github.com/haileshibru?tab=followers">
+    <img src="https://img.shields.io/github/followers/haileshibru?label=Followers&style=flat&color=0F172A" alt="GitHub followers" />
   </a>
 </p>
 
@@ -91,7 +91,7 @@
       <p><strong>Student Management System</strong></p>
       <p>School management platform for students, teachers, attendance, marks, academic records, roles and reports.</p>
       <p><strong>Stack:</strong> React · TypeScript · Firebase · Firestore · Express · Vite · Tailwind</p>
-      <a href="https://github.com/haile199105/student-management-system">📂 Repository</a> ·
+      <a href="https://github.com/haileshibru/student-management-system">📂 Repository</a> ·
       <a href="https://smartclass-pro1.vercel.app/">🌐 Live Demo</a>
     </td>
     <td width="50%" valign="top">
@@ -99,7 +99,7 @@
       <p><strong>Wishes & Memory Platform</strong></p>
       <p>Private-by-link ceremony pages with wishes, photos, signatures, moderation and downloadable memory packages.</p>
       <p><strong>Stack:</strong> Next.js · React · TypeScript · Supabase · PostgreSQL · Tailwind</p>
-      <a href="https://github.com/haile199105/Digital-Ceremony-Platform">📂 Repository</a>
+      <a href="https://github.com/haileshibru/Digital-Ceremony-Platform">📂 Repository</a>
     </td>
   </tr>
   <tr>
@@ -108,14 +108,14 @@
       <p><strong>Digital Menu & Management System</strong></p>
       <p>Digital restaurant menu with categories, food items, availability controls, restaurant information and an admin dashboard.</p>
       <p><strong>Stack:</strong> React · TypeScript · Vite · Express · Tailwind</p>
-      <a href="https://github.com/haile199105/Digital-menu-">📂 Repository</a>
+      <a href="https://github.com/haileshibru/Digital-menu-">📂 Repository</a>
     </td>
     <td width="50%" valign="top">
       <h3>🎨 Hirearky Frontend Redesign</h3>
       <p><strong>Interactive Frontend Concept</strong></p>
       <p>Independent redesign concept focused on modern UI, smooth scrolling, animation and interactive 3D experiences.</p>
       <p><strong>Stack:</strong> React · TypeScript · GSAP · Three.js · React Three Fiber · Lenis</p>
-      <a href="https://github.com/haile199105/H_Website">📂 Repository</a>
+      <a href="https://github.com/haileshibru/H_Website">📂 Repository</a>
     </td>
   </tr>
   <tr>
@@ -124,20 +124,20 @@
       <p><strong>Transport Operations & Financial Ledger</strong></p>
       <p>System for recording trips, passengers, income, expenses, routes and financial summaries.</p>
       <p><strong>Stack:</strong> React · TypeScript · Supabase · Express · Tailwind</p>
-      <a href="https://github.com/haile199105/transport-management-system-">📂 Repository</a>
+      <a href="https://github.com/haileshibru/transport-management-system-">📂 Repository</a>
     </td>
     <td width="50%" valign="top">
       <h3>📖 Story of Haile</h3>
       <p><strong>Personal Storytelling Platform</strong></p>
       <p>Interactive storytelling platform with chapters, diary, timeline, gallery, goals, search, comments and content management.</p>
       <p><strong>Stack:</strong> React · TypeScript · Supabase · Express · Tailwind</p>
-      <a href="https://github.com/haile199105/Story-of-haile-">📂 Repository</a>
+      <a href="https://github.com/haileshibru/Story-of-haile-">📂 Repository</a>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/haile199105?tab=repositories"><strong>🔎 View All Repositories →</strong></a>
+  <a href="https://github.com/haileshibru?tab=repositories"><strong>🔎 View All Repositories →</strong></a>
 </p>
 
 ---
@@ -167,16 +167,16 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haile199105&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165" alt="Haile's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haile199105&layout=compact&hide_border=true&langs_count=8" height="165" alt="Haile's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haileshibru&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165" alt="Haile's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haileshibru&layout=compact&hide_border=true&langs_count=8" height="165" alt="Haile's top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=haile199105&hide_border=true" alt="Haile's GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=haileshibru&hide_border=true" alt="Haile's GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haile199105&hide_border=true&area=true" alt="Haile's GitHub contribution activity" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haileshibru&hide_border=true&area=true" alt="Haile's GitHub contribution activity" width="95%" />
 </p>
 
 ---
@@ -203,8 +203,8 @@
   <a href="https://haile-portfolio-theta.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://github.com/haile199105">
-    <img src="https://img.shields.io/badge/GitHub-haile199105-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/haileshibru">
+    <img src="https://img.shields.io/badge/GitHub-haileshibru-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
